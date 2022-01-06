@@ -5,7 +5,7 @@ head{
 body{
     margin: 0%;
 }
-h1{
+#first-hd{
     font-size: 70px;
     border-left: 5px solid orange;
     padding-left: 10px;
@@ -38,6 +38,36 @@ h1{
     border-radius: 5px;
     padding: 10px 50px;
 }
-#scroll-line{
+#scroll-line{   
 margin-top: 8%;
+}
+.centre-hd{
+   font-size: 50px; 
+   text-align: center;
+}
+.sec-2-boxes{
+    display: flex;
+    margin: 40px 120px;
+}
+.illus-pic{
+    width: 50%;
+}
+.boxes{
+width: 30%;  
+border-radius: 20px;  
+padding: 10px 30px;
+margin: 0 10px;
+
+}
+#l-box{
+    background-color: silver;   
+}
+#m-box{
+    background-color: peachpuff;
+}
+#r-box{
+    background-color: palegreen;
+}
+.sec-3{
+    display: flex;
 }
