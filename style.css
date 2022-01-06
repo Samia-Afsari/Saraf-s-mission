@@ -14,7 +14,7 @@ body{
 .color-line{
     color:coral;
 }
-.sec-1{
+.flex-cont{
     display: flex;
 }
 .half-width{
@@ -46,7 +46,6 @@ margin-top: 8%;
    text-align: center;
 }
 .sec-2-boxes{
-    display: flex;
     margin: 40px 120px;
 }
 .illus-pic{
@@ -68,6 +67,17 @@ margin: 0 10px;
 #r-box{
     background-color: palegreen;
 }
-.sec-3{
-    display: flex;
+.sec-middle-hd{
+    font-size: 50px;
+}
+.sec-middle{
+    width: 1500px;
+    margin-top: 5%;
+    margin-left: 0;
+    margin-right:10%;
+}
+.sec-middle2 img{
+    width: 60%;
+    margin-top: 5%;
+    padding-left: 25%;
 }
