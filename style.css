@@ -1,0 +1,43 @@
+head{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu Mono', monospace;  
+}
+body{
+    margin: 0%;
+}
+h1{
+    font-size: 70px;
+    border-left: 5px solid orange;
+    padding-left: 10px;
+    
+}
+.color-line{
+    color:coral;
+}
+.sec-1{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 5%;
+}
+.blog{
+    font-size: 20px;
+    margin-bottom: 8%;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
+    padding: 10px 50px;
+}
+#scroll-line{
+margin-top: 8%;
+}
