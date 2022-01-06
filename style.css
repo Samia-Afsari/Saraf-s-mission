@@ -9,7 +9,6 @@ body{
     font-size: 70px;
     border-left: 5px solid orange;
     padding-left: 10px;
-    
 }
 .color-line{
     color:coral;
@@ -17,12 +16,12 @@ body{
 .flex-cont{
     display: flex;
 }
-.half-width{
+.sec-1-div{
     width: 50%;
     padding-left: 10%;
     padding-top: 5%;
 }
-.half-width img{
+.sec-1-div img{
     width: 70%;
     padding-left: 5%;
 }
@@ -38,6 +37,9 @@ body{
     border-radius: 5px;
     padding: 10px 50px;
 }
+.link-button:hover{
+    color: red;
+}
 #scroll-line{   
    margin-top: 8%;
 }
@@ -45,18 +47,17 @@ body{
    font-size: 50px; 
    text-align: center;
 }
-.sec-2-boxes{
+#sec-2-boxes{
     margin: 40px 120px;
-}
-.illus-pic{
-    width: 50%;
 }
 .boxes{
     width: 30%;  
     border-radius: 20px;  
     padding: 10px 30px;
     margin: 0 10px;
-
+}
+.boxes img{
+    width: 50%;
 }
 #l-box{
     background-color: silver;   
@@ -94,10 +95,9 @@ body{
 #sec-last{
     margin: 6% 0;
 }
-#last-part{
+#sec-last-div{
     width: 80%;
     margin: 0 auto;
-    justify-content: space-between;
 }
 .skill{
     width: 50%;
